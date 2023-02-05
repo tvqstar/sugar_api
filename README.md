@@ -1,9 +1,9 @@
 # sugar_api
 
-# http://localhost:3001/api/product/all-product
+# https://sugarapitvq.onrender.com/api/product/all-product
 
-# http://localhost:3001/api/product/add-product
+# https://sugarapitvq.onrender.com/api/product/add-product
 
-# http://localhost:3001/api/user/sign-up
+# https://sugarapitvq.onrender.com/api/user/sign-up
 
-# http://localhost:3001/api/user/sign-in
+# https://sugarapitvq.onrender.com/api/user/sign-in
